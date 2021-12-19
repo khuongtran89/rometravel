@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.logo img{
+    height: 70px;
+}
+.nav-item a {
+    color: darkorange;
+}
+.dong {
+    color: darkorange;
+}
+
+.card-title {
+    color: darkorange;
+}
+.card-text {
+    color: gray;
+}
+.img-fluid {
+    position: relative;
+    z-index: 100;
+}
+.missions {
+    position: absolute;
+    z-index: 1000;
+}
+
+.container-fluid {
+    background-color: darkorange;
+    height: 300px;
+}
+
+.footer-nd {
+    height: 200px;
+}
+
+.footer-nd .nav-item a{
+    color: rgb(251, 251, 251);
+}
+
